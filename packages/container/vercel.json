@@ -1,7 +1,6 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
-  "framework": "other",
   "env": {
    "PRODUCTION_DOMAIN": "https://mfe-milans-projects-2386623d.vercel.app"
   }
